@@ -25,3 +25,12 @@
 
 - 디펜던시가 뭐냐
 > ” 모듈이 자체적으로 코드를 만들어서 사용하는 것이 아니라, 외부에서 코드 덩어리(외부 모듈)를 가져오는 것.”
+
+- Data-binding이 뭐냐
+> 모델과 뷰의 '자동 동기화'
+> 모델에 있는 값이 변경 되면 뷰의 값도 변경된다.
+
+
+- JavaScript prototype에 관해서
+> JavaScript constructor function에는 prototype 이라는 property가 있습니다.
+> 이 prototype은 그냥 단순한 object입니다.
