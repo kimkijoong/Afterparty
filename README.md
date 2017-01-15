@@ -8,6 +8,8 @@
 - [앵귤러로 Todo앱 만들기](http://blog.jeonghwan.net/lectures/todomvc-angular/1/)
 - [inflearn 앵귤러 1 강좌](https://www.inflearn.com/course/angular-%EC%95%B5%EA%B7%A4%EB%9F%AC-%EA%B0%95%EC%A2%8C/)
 
+-[angularjs-controller에-관해서-알아봅시다](https://linumix.wordpress.com/2015/05/09/angularjs-controller%EC%97%90-%EA%B4%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4-2/)
+
 
 ###### 앵귤러 2가 아닌 1을 학습하는 이유
 > 1이 조금더 러닝커브가 짧고 프레임워크의 방식을 공부하는 진입장벽이 낮음
