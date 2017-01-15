@@ -37,7 +37,6 @@
 #### iconic2
 
 - [inflearn 아이오닉 개발을 위한 타입스크립트 기본](https://www.inflearn.com/course/%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%89-ionic2-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
--
 
 #### toast 블로그 참고 글
 
