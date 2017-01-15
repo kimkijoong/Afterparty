@@ -9,6 +9,11 @@
 - [inflearn 앵귤러 1 강좌](https://www.inflearn.com/course/angular-%EC%95%B5%EA%B7%A4%EB%9F%AC-%EA%B0%95%EC%A2%8C/)
 - [AngularJS를 배워보자](http://www.codekin.com/?p=1530)
 - [angularjs-controller에-관해서-알아봅시다](https://linumix.wordpress.com/2015/05/09/angularjs-controller%EC%97%90-%EA%B4%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4-2/)
+- [AngularJS: 사용자정의 디렉티브(directive) 이야기](http://www.nextree.co.kr/p4850/)
+- [AngularJS: Scope와 데이터 바인딩( $apply, $watch )](http://www.nextree.co.kr/p8890/)
+- [서비스 개발을 위한 의존관계 주입 알아보기](http://webframeworks.kr/tutorials/angularjs/dependency_injection_with_angularjs/)
+- [Angularjs 도입 선택 가이드](http://www.slideshare.net/deview/angularjs-45155720)
+
 
 
 ###### 앵귤러 2가 아닌 1을 학습하는 이유
@@ -25,7 +30,8 @@
 - [코드아카데미 리액트js part.2](https://www.codecademy.com/learn/react-102)
 - [Velopert(김민준) 블로그](https://velopert.com/2597)
 - [inflearn 리액트 강좌 by 김민준](https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert/?action=curriculum)
-
+- [redux 한글문서](http://dobbit.github.io/redux/)
+- [flux 한글문서](https://github.com/haruair/flux)
 
 #### Vue.js
 
@@ -33,6 +39,7 @@
 - [영문 가이드 문서](https://vuejs.org/v2/guide/)
 - [한글 사이트](https://kr.vuejs.org/)
 - [한글 가이드 문서](https://kr.vuejs.org/v2/guide/)
+
 
 #### iconic2
 
@@ -59,3 +66,14 @@
 - [collectui](http://collectui.com/designs)
 - [웹에서 SVG 사용하기](https://svgontheweb.com/ko/)
 - [Uplabs (daily ui inspiration)](https://www.uplabs.com/)
+
+#### jQuery
+
+- [jQuery 애니메이션은 어떻게 작동하는가? - 기본 편](http://d2.naver.com/helloworld/0265052)
+- [jQuery 애니메이션은 어떻게 작동하는가? - 심화 편](http://d2.naver.com/helloworld/4424601)
+- [jQuery 애니메이션은 어떻게 작동하는가? - 응용 편](http://d2.naver.com/helloworld/9323973)
+
+
+#### 기타 링크
+- [웹 프레임워크](http://webframeworks.kr/)
+- [네이버 d2](http://d2.naver.com/helloworld)
