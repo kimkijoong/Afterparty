@@ -50,3 +50,12 @@
 - [자바스크립트 프레임워크 소개 2 - Angular2](http://meetup.toast.com/posts/98)
 - [자바스크립트 프레임워크 소개 3 - Vue.js](http://meetup.toast.com/posts/99)
 - [자바스크립트 프레임워크 소개 4 - React](http://meetup.toast.com/posts/100)
+
+
+#### about Design
+
+-[Open Source Project for Designer](https://www.clippingmini.com/#watch?pid=jvVQa254kW)
+-[UX를 공부하는 사람들이라면 알아둬야 하는 사이트 모음집](https://www.clippingmini.com/#watch?pid=-KZRN-NIdwPcblFMqSLf)
+-[Graphic design reference website](https://www.clippingmini.com/#watch?pid=3nzjNLPaPi)
+-[collectui](http://collectui.com/designs)
+-[웹에서 SVG 사용하기](https://svgontheweb.com/ko/)
