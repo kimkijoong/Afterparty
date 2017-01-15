@@ -54,8 +54,8 @@
 
 #### about Design
 
--[Open Source Project for Designer](https://www.clippingmini.com/#watch?pid=jvVQa254kW)
--[UX를 공부하는 사람들이라면 알아둬야 하는 사이트 모음집](https://www.clippingmini.com/#watch?pid=-KZRN-NIdwPcblFMqSLf)
--[Graphic design reference website](https://www.clippingmini.com/#watch?pid=3nzjNLPaPi)
--[collectui](http://collectui.com/designs)
--[웹에서 SVG 사용하기](https://svgontheweb.com/ko/)
+- [Open Source Project for Designer](https://www.clippingmini.com/#watch?pid=jvVQa254kW)
+- [UX를 공부하는 사람들이라면 알아둬야 하는 사이트 모음집](https://www.clippingmini.com/#watch?pid=-KZRN-NIdwPcblFMqSLf)
+- [Graphic design reference website](https://www.clippingmini.com/#watch?pid=3nzjNLPaPi)
+- [collectui](http://collectui.com/designs)
+- [웹에서 SVG 사용하기](https://svgontheweb.com/ko/)
