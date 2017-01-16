@@ -19,6 +19,7 @@
 - templateUrl에 선언한 url에 해당하는 HTML을 로드합니다.
 - 이때 index.html 위치를 기준으로 로드할 html의 상대위치를 정의합니다.
 
+- [index.html]
 ``` html
 <!doctype html>  
 <html ng-app="exampleDirective">  
@@ -32,4 +33,25 @@
     </div>
   </body>
 </html>  
+```
+
+- [script.js]
+```js
+angular.module('exampleDirective', [])  
+  .controller('Ctrl', function($scope) {
+    $scope.person = {
+      name: 'nextreeMember',
+      address: 'Gasan'
+    };
+  })
+  .directive('myExample', function() {
+    return {
+      templateUrl: 'my-example.html'
+    };
+});
+```
+
+- [my-example.html]
+```html
+Name: {{person.name}} </br> Address: {{person.address}}  
 ```
