@@ -16,7 +16,7 @@
 - [w3schools 앵귤러 튜토리얼](http://www.w3schools.com/angular/)
 - [https://egghead.io/](https://egghead.io/technologies/angularjs)
 - [앵귤러 모듈 모음](http://ngmodules.org/)
-
+- [ng-repeat](http://programmingsummaries.tistory.com/236)
 
 ###### 앵귤러 2가 아닌 1을 학습하는 이유
 > 1이 조금더 러닝커브가 짧고 프레임워크의 방식을 공부하는 진입장벽이 낮음
