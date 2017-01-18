@@ -13,7 +13,9 @@
 - [AngularJS: Scope와 데이터 바인딩( $apply, $watch )](http://www.nextree.co.kr/p8890/)
 - [서비스 개발을 위한 의존관계 주입 알아보기](http://webframeworks.kr/tutorials/angularjs/dependency_injection_with_angularjs/)
 - [Angularjs 도입 선택 가이드](http://www.slideshare.net/deview/angularjs-45155720)
-
+- [w3schools 앵귤러 튜토리얼](http://www.w3schools.com/angular/)
+- [https://egghead.io/](https://egghead.io/technologies/angularjs)
+- [앵귤러 모듈 모음](http://ngmodules.org/)
 
 
 ###### 앵귤러 2가 아닌 1을 학습하는 이유
@@ -77,3 +79,4 @@
 #### 기타 링크
 - [웹 프레임워크](http://webframeworks.kr/)
 - [네이버 d2](http://d2.naver.com/helloworld)
+- [이벤트 핸들러의 첫번째 인자](http://div.or.kr/js-studying/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%9F%AC%EC%9D%98%20%EC%B2%AB%EB%B2%88%EC%A7%B8%20%EC%9D%B8%EC%9E%90)
