@@ -32,10 +32,10 @@ app.controller('HomeController', ['$scope','emails', function($scope, emails) {
 > 이메일 데이터를 가져오는 것을 성공했을때의 경우를 정의한다.
 
 
+
+
+### Top 10 app
 -----------------
-
-#### Top 10 app
-
 index.html
 ```html
 <!doctype html>
