@@ -3,11 +3,11 @@
 - service
 ```js
 app.factory('emails', ['$http', function($http){
-  $http.get('https://s3.amazonaws.com/codecademy-content/courses/ltp4/emails-api/emails.json')
+  return $http.get('https://s3.amazonaws.com/codecademy-content/courses/ltp4/emails-api/emails.json')
   .success(function(data){
     return data;
   })
-  .err(function(err){
+  .error(function(err){
     return err;
   });
 }]);
