@@ -82,3 +82,6 @@
 - [이벤트 핸들러의 첫번째 인자](http://div.or.kr/js-studying/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%9F%AC%EC%9D%98%20%EC%B2%AB%EB%B2%88%EC%A7%B8%20%EC%9D%B8%EC%9E%90)
 - [알고 있어야 할 8가지 정규식 표현](https://blog.outsider.ne.kr/360)
 - [자바스크립트 기초와 알고리즘](https://github.com/ggomaeng/awesome-js)
+
+#### CSS
+- [버튼이나 메뉴에 사용하기 좋은 css 오버효과 모음](http://rwdb.kr/menu_css_hover/)
