@@ -41,7 +41,7 @@
 - [영문 가이드 문서](https://vuejs.org/v2/guide/)
 - [한글 사이트](https://kr.vuejs.org/)
 - [한글 가이드 문서](https://kr.vuejs.org/v2/guide/)
-
+- [Vue.JS 2.0 소개 및 시작하기](https://velopert.com/3007) 
 
 #### iconic2
 
