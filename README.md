@@ -12,19 +12,12 @@
 - [AngularJS: 사용자정의 디렉티브(directive) 이야기](http://www.nextree.co.kr/p4850/)
 - [AngularJS: Scope와 데이터 바인딩( $apply, $watch )](http://www.nextree.co.kr/p8890/)
 - [서비스 개발을 위한 의존관계 주입 알아보기](http://webframeworks.kr/tutorials/angularjs/dependency_injection_with_angularjs/)
-- [Angularjs 도입 선택 가이드](http://www.slideshare.net/deview/angularjs-45155720)
+- [Angularjs 도입 선택 가이드](http://www.slideshare.net/deview/angularjs-45155720)
 - [w3schools 앵귤러 튜토리얼](http://www.w3schools.com/angular/)
 - [https://egghead.io/](https://egghead.io/technologies/angularjs)
 - [앵귤러 모듈 모음](http://ngmodules.org/)
 - [ng-repeat](http://programmingsummaries.tistory.com/236)
 
-###### 앵귤러 2가 아닌 1을 학습하는 이유
-> 1이 조금더 러닝커브가 짧고 프레임워크의 방식을 공부하는 진입장벽이 낮음
-> 한글로 된 문서가 많고 강의가 많다.
-> 향후 앵귤러 1을 어느정도 파악한 후에는 리액트와 뷰를 공부 할 예정이다.
-> vue.js의 문법이 앵귤러1가 유사하다고 들었다.
-> 앵귤러2는 아직은 생각이 없다.
-> 위의 링크는 공부하면서 참고할 만한 사이트를 정리한 것이다.
 
 #### React
 
